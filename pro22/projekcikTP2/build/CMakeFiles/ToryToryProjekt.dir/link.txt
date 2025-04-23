@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ToryToryProjekt.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\ToryToryProjekt.dir/objects.a @CMakeFiles\ToryToryProjekt.dir\objects1.rsp
+C:\msys64\ucrt64\bin\c++.exe -g -Wl,--whole-archive CMakeFiles\ToryToryProjekt.dir/objects.a -Wl,--no-whole-archive -o ToryToryProjekt.exe -Wl,--out-implib,libToryToryProjekt.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ToryToryProjekt.dir\linkLibs.rsp

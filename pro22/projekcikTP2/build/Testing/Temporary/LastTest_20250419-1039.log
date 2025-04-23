@@ -1,0 +1,27 @@
+Start testing: Apr 23 20:30 årodkowoeuropejski czas letni
+----------------------------------------------------------
+1/1 Testing: BasicTest
+1/1 Test: BasicTest
+Command: "C:/Users/kb150/Documents/projekcikTP2/build/mytest.exe"
+Directory: C:/Users/kb150/Documents/projekcikTP2/build
+"BasicTest" start time: Apr 23 20:30 årodkowoeuropejski czas letni
+Output:
+----------------------------------------------------------
+Test zdany, wszystkie wagoniki sƒÖ z przedzia≈Çu A‚ÄìD.
+
+Witaj w naszej grze!
+
+Zasady:
+Celem gry jest odpowiednie dopasowanie pociagow A,B,C,D do wygenerowanych pieciu bocznic.
+Uzytkownik dokonuje wyboru klikajac klawisze od 2-6. Dobrze dopasowane pociagi daja uzytkownikowi punkty. 50pkt - W
+
+Test zdany, funkcja zosta≈Ça wywo≈Çana na ko≈Ñcu InterfejsGierki().
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"BasicTest" end time: Apr 23 20:30 årodkowoeuropejski czas letni
+"BasicTest" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 23 20:30 årodkowoeuropejski czas letni

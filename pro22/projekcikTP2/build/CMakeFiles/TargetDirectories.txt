@@ -1,0 +1,5 @@
+C:/Users/kb150/Documents/projekcikTP2/build/CMakeFiles/ToryToryProjekt.dir
+C:/Users/kb150/Documents/projekcikTP2/build/CMakeFiles/mytest.dir
+C:/Users/kb150/Documents/projekcikTP2/build/CMakeFiles/test.dir
+C:/Users/kb150/Documents/projekcikTP2/build/CMakeFiles/edit_cache.dir
+C:/Users/kb150/Documents/projekcikTP2/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250419-1039-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.0.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="KOMPI"
+	OSRelease=" Personal"
+	OSVersion=" (Build 26100)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="10"
+	ModelName=""
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="12"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="17111"
+	TotalPhysicalMemory="16087"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2496"
+	>
+	<Testing>
+		<StartDateTime>Apr 23 20:30 [NON-UTF-8-BYTE-0x8C]rodkowoeuropejski czas letni</StartDateTime>
+		<StartTestTime>1745433036</StartTestTime>
+		<TestList>
+			<Test>./BasicTest</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>BasicTest</Name>
+			<Path>.</Path>
+			<FullName>./BasicTest</FullName>
+			<FullCommandLine>C:\Users\kb150\Documents\projekcikTP2\build\mytest.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0092733</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>C:\Users\kb150\Documents\projekcikTP2\build\mytest.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value>Test zdany, wszystkie wagoniki są z przedziału A–D.
+
+Witaj w naszej grze!
+
+Zasady:
+Celem gry jest odpowiednie dopasowanie pociagow A,B,C,D do wygenerowanych pieciu bocznic.
+Uzytkownik dokonuje wyboru klikajac klawisze od 2-6. Dobrze dopasowane pociagi daja uzytkownikowi punkty. 50pkt - W
+
+Test zdany, funkcja została wywołana na końcu InterfejsGierki().
+</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Apr 23 20:30 [NON-UTF-8-BYTE-0x8C]rodkowoeuropejski czas letni</EndDateTime>
+		<EndTestTime>1745433036</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
